@@ -2,6 +2,9 @@
 
 My first flutter app from London App Brewery Course
 
+## Screenshot
+<img src= "https://github.com/ShowYoungg/OfflineAudio_MultiVersion_Bible/blob/master/Screenshot_20200817-165809.png" width="250"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
